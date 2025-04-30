@@ -1,4 +1,4 @@
-import{j as s,ck as n,cl as t}from"./index-50870928.js";const h=`## 2025-04-10
+import{j as s,cB as n,cC as t}from"./index-29611dc9.js";const h=`## 2025-04-10
 
 - 修改作业时会在新标签页打开 [@guansss](https://github.com/guansss)
 - 对搜索面板进行了正面优化（确信） [@guansss](https://github.com/guansss)
@@ -82,4 +82,4 @@ import{j as s,ck as n,cl as t}from"./index-50870928.js";const h=`## 2025-04-10
 - 修复了无法搜索神秘代码的问题
 - 修复了无法在编辑器中导入神秘代码的问题
 `,g=()=>s.jsxs("div",{className:"max-w-screen-md mx-auto",children:[s.jsx("div",{className:"mt-8 flex flex-col items-center",children:s.jsxs("div",{className:"text-[2rem] md:text-[3.75rem]",children:[s.jsxs("div",{className:"bg-rainbow relative !text-transparent !bg-clip-text font-bold italic leading-[1.2]",children:[s.jsx("div",{className:"ml-[3.2em] mr-[0.2em] !text-inherit",children:"作业站解君愁"}),s.jsx("div",{className:"text-[1.2em] !text-inherit",children:"点个收藏不迷路"})]}),s.jsx("div",{className:"bg-rainbow !bg-clip-content h-[0.1em] pr-[1em]"})]})}),s.jsxs("div",{className:"mt-12 p-4",children:[s.jsx(n,{children:"更新日志"}),s.jsx(t,{children:h})]})]});export{g as AboutPage};
-//# sourceMappingURL=about-d2c641e5.js.map
+//# sourceMappingURL=about-d5e13d1d.js.map
